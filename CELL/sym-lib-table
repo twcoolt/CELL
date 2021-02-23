@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CELL)(type Legacy)(uri ${KIPRJMOD}/CELL.lib)(options "")(descr ""))
+)
